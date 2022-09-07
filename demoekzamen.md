@@ -108,4 +108,4 @@ extend - не обязательно
 
 ## UML Диаграмма турагенства пример
 
-![image](https://user-images.githubusercontent.com/73188898/188598402-9b651c15-f31b-4747-8f95-0a9ec9785421.png)
+![2022-09-07_13-31-28](https://user-images.githubusercontent.com/90246832/188857544-466fcb4d-b463-4609-9e2b-9bb5b7359225.png)
