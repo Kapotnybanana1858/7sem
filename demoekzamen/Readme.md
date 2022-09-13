@@ -1,3 +1,6 @@
+SQL - 195KarD
+Qqwerty.12345
+
 https://esat.worldskills.ru/competencies/dac59f20-134b-4aa4-94e5-518c488ccc9e/categories/d747aed4-5204-4ab4-a3f1-dec61f99735d
 
 https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/edit#
@@ -109,4 +112,33 @@ extend - не обязательно
 ## UML Диаграмма турагенства пример
 
 ![2022-09-07_13-31-28](https://user-images.githubusercontent.com/90246832/188857544-466fcb4d-b463-4609-9e2b-9bb5b7359225.png)
+
+
+
+## Конспект ER Диаграммы 
+
+![image](https://user-images.githubusercontent.com/90246832/189842210-66ce929e-cc33-40d2-b30f-3e254a7baa56.png)
+
+Нормальная форма НФ2 
+2НФ - скидка повторяется - значит выносим 
+Вынести повторяющийся элементы в отдельную таблицу 
+
+![image](https://user-images.githubusercontent.com/90246832/189842445-f8487dbb-b2a7-4719-9782-cbfe9c6f1944.png)
+Нормальная форма НФ3
+
+смотрим на взаимосвязи сталбцов. если столбци друг от друга не зависят, выносим их в разные столбци
+
+![image](https://user-images.githubusercontent.com/90246832/189849057-685649a6-bea6-4583-80bf-f80557e3fa6f.png)
+
+![image](https://user-images.githubusercontent.com/90246832/189848959-adcb2b08-5ce6-4b08-9982-028adda1c626.png)
+
+![image](https://user-images.githubusercontent.com/90246832/189849358-9d7109f9-0a86-4c1c-b4f6-f4e750b858cb.png)
+
+##Создание базы данных 
+
+![image](https://user-images.githubusercontent.com/90246832/189849997-ae6f2c59-1c8f-42ec-a7a9-8e06d240d3c8.png)
+
+![image](https://user-images.githubusercontent.com/90246832/189850694-7ec1eb48-676b-4512-bb50-1b3a7840613f.png)
+
+![image](https://user-images.githubusercontent.com/90246832/189850796-6085cb0f-fd51-4f90-b601-5c6f9a3e9ce2.png)
 
