@@ -160,3 +160,6 @@ extend - не обязательно
 <br>Нескольким людям нравиться несколько книг" = отдельная таблица с двумя первичными ключами 
 
 ![image](https://user-images.githubusercontent.com/90246832/189865587-9861fb29-e5b3-42b9-84be-20d574b8c329.png)
+
+
+<br>Типы данных = int, date, float,binary,bit,char,datetime,image,money,varchar,nvarchar
