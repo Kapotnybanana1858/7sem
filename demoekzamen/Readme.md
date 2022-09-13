@@ -142,3 +142,13 @@ extend - не обязательно
 
 ![image](https://user-images.githubusercontent.com/90246832/189850796-6085cb0f-fd51-4f90-b601-5c6f9a3e9ce2.png)
 
+![image](https://user-images.githubusercontent.com/90246832/189851009-d71255ff-7c40-4ac7-b10d-a75c5d240d4e.png)
+
+![image](https://user-images.githubusercontent.com/90246832/189851088-30f7ace5-139b-4045-bcab-f05234f17187.png)
+
+![image](https://user-images.githubusercontent.com/90246832/189851659-1c66d4ae-de0a-4838-91aa-e6e762216c83.png)
+
+![image](https://user-images.githubusercontent.com/90246832/189852435-7cae977b-52a5-450f-9656-257703c493ae.png)
+
+![image](https://user-images.githubusercontent.com/90246832/189853157-3c3435c7-18a9-4b5e-aa32-2d1b643cdde9.png)
+Отключайте автоинкримент если первичный ключ это паспортные данные 
