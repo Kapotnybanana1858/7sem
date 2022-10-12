@@ -321,3 +321,19 @@ login: 195md password: 12345
 ![image](https://user-images.githubusercontent.com/90246832/194045174-653014e8-bb90-4fe0-abb5-ee8fdfb42eb6.png)
 
 ![image](https://user-images.githubusercontent.com/90246832/194045114-ec5c55eb-9a18-4dfa-922f-eab8f93129c1.png)
+
+<br>12.10.2022
+<br>Перевод в единое время : a)разделить данные по столбцам
+<br> Функция ВПР позволяет заменить значения на цифры. Справа указываються ключи
+<br>
+
+![image](https://user-images.githubusercontent.com/90246832/195325109-d0be330e-cac2-4a20-8674-20d564b6e8ad.png)
+
+![image](https://user-images.githubusercontent.com/90246832/195326491-bfb8aa32-b980-47b1-abb5-1e3363abeca6.png)
+
+![image](https://user-images.githubusercontent.com/90246832/195328025-78168668-8af3-4251-a9b9-0e103146e980.png)
+
+![image](https://user-images.githubusercontent.com/90246832/195331487-4ae02677-4ddc-44f9-ab82-d2f6f94b6d90.png)
+
+
+
