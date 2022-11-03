@@ -366,3 +366,8 @@ login: 195md password: 12345
 ![image](https://user-images.githubusercontent.com/90246832/196921110-fc480313-1281-421f-8e97-c9c4d5093ada.png)
 
 ![image](https://user-images.githubusercontent.com/90246832/196921215-19fbd045-82d4-4d90-bc04-8694e44b58e1.png)
+
+<br>пароль : admin, login : admin
+
+![image](https://user-images.githubusercontent.com/90246832/199696212-3d1c9b8f-9ee3-4004-b472-9cd797afbc1d.png)
+
