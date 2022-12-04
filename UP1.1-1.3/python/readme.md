@@ -13,3 +13,7 @@
 # Вывод студентов женского пола
 
 ![image](https://user-images.githubusercontent.com/73188898/205070471-2a3429bf-a540-4853-a290-f207dfd18001.png)
+
+git bash
+
+![image](https://user-images.githubusercontent.com/90246832/205494978-174c126f-7997-43ed-8cc3-4ecf382fe229.png)
